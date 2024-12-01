@@ -15,7 +15,6 @@ Installation
 To run this project, make sure you have Python 3.x installed, and install the necessary dependencies using pip:
 
 bash
-Kodu kopyala
 pip install numpy pandas matplotlib scikit-learn
 Usage
 Prepare the Data:
@@ -30,7 +29,6 @@ Code Execution:
 
 Execute the script to train the model and generate the plot:
 python
-Kodu kopyala
 python bitcoin_price_prediction.py
 Output:
 The output will be a plot showing the actual Bitcoin prices and the predicted Bitcoin prices.
@@ -86,9 +84,13 @@ plt.xlabel('Date')
 plt.ylabel('Price (USD)')
 plt.legend()
 plt.show()
+
 Requirements
 Python 3.x
+
 Libraries: numpy, pandas, matplotlib, scikit-learn
+
 Author
 Ozgur Lezgiyev
+
 Feel free to modify the code for your specific use case. If you encounter any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
