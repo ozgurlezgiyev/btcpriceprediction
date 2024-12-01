@@ -1,4 +1,4 @@
-**# ** Bitcoin Price Prediction using SVR
+# Bitcoin Price Prediction using SVR
 This project demonstrates how to predict Bitcoin prices using Support Vector Regression (SVR) on historical price data. The project involves data preprocessing, training an SVR model, and visualizing the predicted Bitcoin prices compared to the actual historical prices.
 
 Project Overview
